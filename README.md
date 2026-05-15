@@ -10,10 +10,12 @@ The collection now spans four phases: the innocent curiosity of pre-war inquiry;
 
 I hope that this collection will not only preserve the voices of atomic scientists but also invite reflection on the enduring dialogue between science and society.
 
+<img src="assets/SaatchiPhoto.jpg"
 
 ## Awards and Recognition
 
 - [The 2025 ABA National Book Collecting Prize](https://ilab.org/article/callum-white-wins-the-aba-national-book-collecting-prize-2025)
+
 - Saatchi Gallery, [FIRSTS: LONDON’S RARE BOOK FAIR](https://www.saatchigallery.com/exhibition/firsts_londons_rare_book_fair)
   
 
