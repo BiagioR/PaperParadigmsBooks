@@ -1,0 +1,64 @@
+# Site settings
+title: Paper Paradigms
+description: Curating the world greatest scientific discoveries 
+url: "https://PaperParadigms.github.io"
+baseurl: "/PaperParadigms.github.io"
+author: 
+contact: 
+
+# Jekyll theme (choose one)
+#theme: jekill-theme
+remote_theme: pages-themes/cayman@v0.2.0
+
+# For GitHub Pages, you might need to use remote_theme instead:
+# remote_theme: pages-themes/minimal@v0.2.0
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Social links
+social:
+  github: 
+  bluesky: 
+  linkedin: 
+
+# Navigation
+navigation:
+  - title: Home
+    url: /README.md/
+  #- title: About
+  #  url: /about/
+  #- title: Projects
+  #  url: /projects/
+  #- title: Blog
+   # url: /blog/
+  - title: Curator Vision
+    url: /vision.md/
+  - title: The Collection
+    url: /collection_pp.md/
+
+# Collections
+#collections:
+#  projects:
+#    output: true
+ #   permalink: /:collection/:name/
+
+# Defaults
+#defaults:
+#  - scope:
+#      path: ""
+#      type: "posts"
+#    values:
+ #     layout: "post"
+ # - scope:
+ #     path: ""
+ #     type: "projects"
+ #   values:
+ #     layout: "project"
