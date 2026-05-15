@@ -1,4 +1,4 @@
-# Paper Paradigms: Curating the world's greatest scienfic discoveries
+# Paper Paradigms: Curating the world's greatest scientific discoveries
 #### by Callum White
 <img src="assets/Collection-Callum-White.jpg" alt="Description" style="width: 350px; height: auto;">
 
@@ -22,4 +22,4 @@ I hope that this collection will not only preserve the voices of atomic scientis
 
 ## Contacts
 
-- Instagram: https://www.instagram.com/paperparadigms?igsh=MWFrMHJkOG41bHUyZw%3D%3D
+- Instagram: [@PaperParadigms](https://www.instagram.com/paperparadigms?igsh=MWFrMHJkOG41bHUyZw%3D%3D)
