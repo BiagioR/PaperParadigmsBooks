@@ -1,5 +1,7 @@
-# Paper Paradigms: Curating the world's greatest scienfic discoveries
+# Paper Paradigms
 
+### Curating the world's greatest scienfic discoveries
+### by Callum White
 <img src="assets/Collection-Callum-White.jpg" alt="Description" style="width: 350px; height: auto;">
 
 ## The Project and Curatorial Vision
@@ -13,6 +15,9 @@ I hope that this collection will not only preserve the voices of atomic scientis
 
 ## Awards and Recognition
 
-- The 2025 ABA National Book Collectiong Prize [https://ilab.org/article/callum-white-wins-the-aba-national-book-collecting-prize-2025]
+- [The 2025 ABA National Book Collectiong Prize](https://ilab.org/article/callum-white-wins-the-aba-national-book-collecting-prize-2025)
+- Saatchi Gallery, [FIRSTS: LONDON’S RARE BOOK FAIR]
+ (https://www.saatchigallery.com/exhibition/firsts_londons_rare_book_fair)
+  
 
 ## The Collection at a Glance
