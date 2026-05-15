@@ -1,6 +1,6 @@
 # Paper Paradigms
 
-<img src="assets/images/IMG_3345.jpg" alt="Description" style="width: 350px; height: auto;">
+<img src="assets/Collection-Callum-White.jpg" alt="Description" style="width: 350px; height: auto;">
 
 ## About Me
 
