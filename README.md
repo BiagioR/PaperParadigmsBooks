@@ -13,7 +13,7 @@ I hope that this collection will not only preserve the voices of atomic scientis
 
 ## Awards and Recognition
 
-- [The 2025 ABA National Book Collectiong Prize](https://ilab.org/article/callum-white-wins-the-aba-national-book-collecting-prize-2025)
+- [The 2025 ABA National Book Collecting Prize](https://ilab.org/article/callum-white-wins-the-aba-national-book-collecting-prize-2025)
 - Saatchi Gallery, [FIRSTS: LONDON’S RARE BOOK FAIR](https://www.saatchigallery.com/exhibition/firsts_londons_rare_book_fair)
   
 
