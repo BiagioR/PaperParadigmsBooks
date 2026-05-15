@@ -7,11 +7,11 @@ author:
 contact: 
 
 # Jekyll theme (choose one)
-theme: jekill-theme
-remote_theme: pages-themes/cayman@v0.2.0
+#theme: jekill-theme
+#remote_theme: pages-themes/cayman@v0.2.0
 
 # For GitHub Pages, you might need to use remote_theme instead:
-# remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 
 # Build settings
 markdown: kramdown
