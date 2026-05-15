@@ -10,7 +10,7 @@ The collection now spans four phases: the innocent curiosity of pre-war inquiry;
 
 I hope that this collection will not only preserve the voices of atomic scientists but also invite reflection on the enduring dialogue between science and society.
 
-<img src="assets/SaatchiPhoto.jpg"
+<img src="assets/SaatchiPhoto.jpg" alt="Description" style="width: 350px; height: auto;">
 
 ## Awards and Recognition
 
