@@ -1,3 +1,5 @@
+#### by Callum White
+
 ## The Project and Curatorial Vision
 
 This collection began with a copy of J. Robert Oppenheimer’s Science and the Common Understanding. Oppenheimer’s conflicted voice, his attempt to reconcile science with conscience, stayed with me. From then on, I set out to trace the human stories of atomic scientists, not only as architects of history but also as individuals who later emerged from moral shadows, often seeking redemption through their “second acts”.
